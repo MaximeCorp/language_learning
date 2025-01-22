@@ -1,0 +1,10 @@
+# Color codes
+RED = "\033[91m"
+GREEN = "\033[32m"
+YELLOW = "\033[93m"
+BLUE = "\033[94m"
+MAGENTA = "\033[35m"
+CYAN = "\033[36m"
+WHITE = "\033[37m"
+ORANGE = "\033[38;5;214m"
+RESET = "\033[0m"
